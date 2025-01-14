@@ -15,7 +15,7 @@ population, there are questions regarding the feasibility of Gee’s enrollment 
 <h2>Languages and Environments Used</h2>
 
 - <b>C</b> 
-- <b>Visual Studio Code</b>
+- <b>XCode</b>
 - <b>MacOS</b>
 
 <h2>Please Note</h2>
